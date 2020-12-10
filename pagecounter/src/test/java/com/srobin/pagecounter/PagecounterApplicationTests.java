@@ -1,0 +1,13 @@
+package com.srobin.pagecounter;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class PagecounterApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
