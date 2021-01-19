@@ -1,0 +1,117 @@
+Faker_API
+C:\Users\BigSid\Desktop\MERN\reactjs\Faker_Api>npm run start
+
+> Faker_Api@1.0.0 start C:\Users\BigSid\Desktop\MERN\reactjs\Faker_Api
+> node server.js
+
+Server is locked and loaded on port 8000!
+User {
+  _id: 26151,
+  firstName: 'Elvis',
+  lastName: 'Cremin',
+  phoneNumber: '410.790.6799 x89891',
+  email: 'Betsy.Turner@hotmail.com',
+  password: 'DT_kH75vo2bWQhy'
+}
+User {
+  _id: 42821,
+  firstName: 'Neal',
+  lastName: 'Dickinson',
+  phoneNumber: '287.433.0436 x6121',
+  email: 'Kassandra_Johns@hotmail.com',
+  password: 'pFQKvyJvDszdFO1'
+}
+User {
+  _id: 98857,
+  firstName: 'Kallie',
+  lastName: 'DuBuque',
+  phoneNumber: '583-376-0316',
+  email: 'Jannie_Johnston29@hotmail.com',
+  password: 'xakU4Ry3_nnZDoS'
+}
+User {
+  _id: 14385,
+  firstName: 'Isadore',
+  lastName: 'Williamson',
+  phoneNumber: '1-233-526-4764',
+  email: 'Felton.Gleason@hotmail.com',
+  password: 'Tp97hUQN5SNlgqv'
+}
+Company {
+  _id: 76126,
+  name: 'Greenfelder - Rohan',
+  address: '73199 Kuvalis Junctions',
+  city: 'New Nedraview',
+  state: 'Oregon',
+  zipCode: '16290-0043',
+  country: 'Poland'
+}
+Company {
+  _id: 97975,
+  name: 'Kuphal - Dietrich',
+  address: '417 Emile Passage',
+  city: 'Betsyburgh',
+  state: 'Kentucky',
+  zipCode: '40625-3877',
+  country: 'Saint Barthelemy'
+}
+Company {
+  _id: 32854,
+  name: 'Koss - Trantow',
+  address: '65421 Weber Crescent',
+  city: 'Felipatown',
+  state: 'California',
+  zipCode: '49714',
+  country: 'Georgia'
+}
+User {
+  _id: 90763,
+  firstName: 'Zechariah',
+  lastName: 'Pfannerstill',
+  phoneNumber: '(431) 590-4119',
+  email: 'Johnpaul_Cummings35@yahoo.com',
+  password: 'g3XMwO2djqPOvSC'
+}
+Company {
+  _id: 51891,
+  name: 'Lind Inc',
+  address: '5788 Bianka Tunnel',
+  city: 'Koelpinside',
+  state: 'Oregon',
+  zipCode: '02446',
+  country: 'Jamaica'
+}
+User {
+  _id: 83671,
+  firstName: 'Jackie',
+  lastName: 'Schroeder',
+  phoneNumber: '1-343-962-1341 x5631',
+  email: 'Melissa83@yahoo.com',
+  password: 'THiYrpHUETNIj9s'
+}
+Company {
+  _id: 19200,
+  name: 'Altenwerth Group',
+  address: '398 Haley Throughway',
+  city: 'Lake Rosendo',
+  state: 'Wisconsin',
+  zipCode: '20224-6806',
+  country: 'Hungary'
+}
+User {
+  _id: 87059,
+  firstName: 'Xavier',
+  lastName: 'Bode',
+  phoneNumber: '622-928-2443 x3492',
+  email: 'John.Gislason@hotmail.com',
+  password: 'yILKYuY2n2lq9Mw'
+}
+Company {
+  _id: 8036,
+  name: 'Aufderhar Group',
+  address: '10561 Johns Manor',
+  city: 'New Gina',
+  state: 'Delaware',
+  zipCode: '14003-1668',
+  country: 'Tunisia'
+}
