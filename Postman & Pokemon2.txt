@@ -1,0 +1,143 @@
+https://pokeapi.co/api/v2/pokemon/ditto  == *
+
+https://pokeapi.co/api/v2/pokemon
+
+    "count": 1118,
+    "next": "https://pokeapi.co/api/v2/pokemon?offset=20&limit=20",
+    "previous": null,
+    "results": [
+        {
+            "name": "bulbasaur",
+            "url": "https://pokeapi.co/api/v2/pokemon/1/"
+        },
+        {
+            "name": "ivysaur",
+            "url": "https://pokeapi.co/api/v2/pokemon/2/"
+        },
+        {
+            "name": "venusaur",
+            "url": "https://pokeapi.co/api/v2/pokemon/3/"
+
+
+https://pokeapi.co/api/v2/type
+"count": 20,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "name": "normal",
+            "url": "https://pokeapi.co/api/v2/type/1/"
+        },
+        {
+            "name": "fighting",
+            "url": "https://pokeapi.co/api/v2/type/2/"
+        },
+        {
+            "name": "flying",
+            "url": "https://pokeapi.co/api/v2/type/3/"
+
+
+https://pokeapi.co/api/v2/ability
+
+"count": 327,
+    "next": "https://pokeapi.co/api/v2/ability?offset=20&limit=20",
+    "previous": null,
+    "results": [
+        {
+            "name": "stench",
+            "url": "https://pokeapi.co/api/v2/ability/1/"
+        },
+        {
+            "name": "drizzle",
+            "url": "https://pokeapi.co/api/v2/ability/2/"
+        },
+        {
+            "name": "speed-boost",
+            "url": "https://pokeapi.co/api/v2/ability/3/"
+        },
+        {
+            "name": "battle-armor",
+            "url": "https://pokeapi.co/api/v2/ability/4/"
+        },
+
+
+
+
+https://pokeapi.co/api/v2/pokemon?limit=5&offset=20.
+
+{
+    "count": 1118,
+    "next": "https://pokeapi.co/api/v2/pokemon?offset=25&limit=5",
+    "previous": "https://pokeapi.co/api/v2/pokemon?offset=15&limit=5",
+    "results": [
+        {
+            "name": "spearow",
+            "url": "https://pokeapi.co/api/v2/pokemon/21/"
+        },
+        {
+            "name": "fearow",
+            "url": "https://pokeapi.co/api/v2/pokemon/22/"
+        },
+        {
+            "name": "ekans",
+            "url": "https://pokeapi.co/api/v2/pokemon/23/"
+        },
+        {
+            "name": "arbok",
+            "url": "https://pokeapi.co/api/v2/pokemon/24/"
+        },
+        {
+            "name": "pikachu",
+            "url": "https://pokeapi.co/api/v2/pokemon/25/"
+        }
+    ]
+}
+
+
+
+https://pokeapi.co/api/v2/
+
+
+"count": 1118,
+    "next": "https://pokeapi.co/api/v2/pokemon?offset=20&limit=20",
+    "previous": null,
+    "results": [
+        {
+            "name": "bulbasaur",
+            "url": "https://pokeapi.co/api/v2/pokemon/1/"
+        },
+        {
+            "name": "ivysaur",
+            "url": "https://pokeapi.co/api/v2/pokemon/2/"
+        },
+        {
+            "name": "venusaur",
+            "url": "https://pokeapi.co/api/v2/pokemon/3/"
+        },
+        {
+
+
+https://pokeapi.co/api/v2/contest-effect/1/
+
+ "appeal": 4,
+    "effect_entries": [
+        {
+            "effect": "Gives a high number of appeal points wth no other effects.",
+            "language": {
+                "name": "en",
+                "url": "https://pokeapi.co/api/v2/language/9/"
+            }
+        }
+    ],
+    "flavor_text_entries": [
+        {
+            "flavor_text": "A highly appealing move.",
+            "language": {
+                "name": "en",
+                "url": "https://pokeapi.co/api/v2/language/9/"
+            }
+        }
+    ],
+    "id": 1,
+    "jam": 0
+}
